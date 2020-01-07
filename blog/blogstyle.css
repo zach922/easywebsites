@@ -1,0 +1,29 @@
+body {
+    border: 16px solid rgb(167, 159, 159);
+    padding:20px;
+    width: 50%;
+    margin: auto;
+    margin-top: 10px;
+    color: #323e4e;
+}
+
+.post {
+    text-align: auto;
+}
+
+div {
+    border-bottom: 2px solid rgb(167, 159, 159);
+}
+
+div p:nth-of-type(1) {
+    border-left: 8px solid rgb(167, 159, 159);
+    padding-left: 4px;
+}
+
+div h3 {
+    color: #65a4c4;
+}
+
+div:nth-child(2){
+
+}

@@ -1,0 +1,20 @@
+h1 {
+    font-family: 'Anton', sans-serif;
+    font-weight: bold;
+    margin-left: 1.66%;
+    width: 30%;
+    border-bottom: 4px solid lightgrey;
+}
+
+h1 span {
+    padding-top: 12%;
+    height: 2em;
+    font-size: 1.4em;
+}
+
+img {
+    float: left;
+    width: 30%;
+    height: 30%;
+    margin: 1.66%;
+}
